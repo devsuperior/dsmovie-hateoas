@@ -9,7 +9,7 @@
 
 - É um importante princípio/constraint do REST que implica que uma API deve ter uma espécie de guia para mostrar aos clientes e usuários, como percorrer pelos recursos que compõem esta API.
 
-- **Análogia:** Ao navegar em uma página web, podemos acessar diferentes páginas por meio de hyperlinks. Desta forma, podemos a partir de um link inicial, acessar diferentes links relacionados. ([Exemplo site](https://www.companhiadasletras.com.br/))
+- **Analogia:** Ao navegar em uma página web, podemos acessar diferentes páginas por meio de hyperlinks. Desta forma, podemos a partir de um link inicial, acessar diferentes links relacionados. ([Exemplo site](https://www.companhiadasletras.com.br/))
 
 - Desta forma, usamos o HATEOAS com o intuito de saber qual o próximo passo após a requisição em um determinado recurso e qual a URI deste recurso.
 
