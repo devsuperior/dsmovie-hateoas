@@ -45,9 +45,9 @@ HTTP/1.1 200 OK
 * Retirado de https://en.wikipedia.org/wiki/HATEOAS
 
 ### Características e discussões sobre o HATEOAS
-- Em teoria, uma API só pode ser considerada RESTFull, caso a mesma implemente HATEOAS. Isso é o que define Roy Fielding, dentre outros pesquisadores.
+- Uma API só pode ser considerada RESTfull, caso a mesma implemente HATEOAS. Isso é o que define Roy Fielding, dentre outros pesquisadores.
 
-- Portanto, o HATEOAS confere a uma API o nível máximo de maturidade ([Glória do REST](https://martinfowler.com/articles/richardsonMaturityModel.html))
+- O HATEOAS confere a uma API o nível máximo de maturidade ([Glória do REST](https://martinfowler.com/articles/richardsonMaturityModel.html))
 
 - Na prática, o mercado ainda está em um nível de maturidade um pouco menor. A maioria das APIs que nós vamos encontrar, não utilizam HATEOAS. E está tudo certo!
 
