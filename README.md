@@ -64,7 +64,7 @@ HTTP/1.1 200 OK
 
 ### Passo: Dependência Maven
 
-- Incluir a dependência do mysql no arquivo pom.xml:
+- Incluir a dependência do HATEOAS no arquivo pom.xml:
 
 ```xml
 <dependency>
