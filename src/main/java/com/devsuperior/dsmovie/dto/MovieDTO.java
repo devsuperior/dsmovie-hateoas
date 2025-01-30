@@ -1,8 +1,5 @@
 package com.devsuperior.dsmovie.dto;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.hibernate.validator.constraints.URL;
 import org.springframework.hateoas.RepresentationModel;
 
